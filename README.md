@@ -46,8 +46,9 @@ Help me improve my [__emacs__](https://github.com/VariableClass/.emacs.d) & [__t
 ![Behavioural Driven Design](https://img.shields.io/badge/bdd-grey?style=for-the-badge)
 ![CI/CD](https://img.shields.io/badge/ci/cd-grey?style=for-the-badge)
 ![Clean Architecture](https://img.shields.io/badge/clean%20architecture-grey?style=for-the-badge)
-![Microservices](https://img.shields.io/badge/microservices-grey?style=for-the-badge)
 ![Event Sourcing](https://img.shields.io/badge/event%20sourcing-grey?style=for-the-badge)
+![Microservices](https://img.shields.io/badge/microservices-grey?style=for-the-badge)
+
 
 <br />
 
