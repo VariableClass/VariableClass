@@ -10,7 +10,7 @@
 Help me improve my [__emacs__](https://github.com/VariableClass/.emacs.d) & [__tmux__](https://github.com/VariableClass/tmux) configs!
 
 [![.emacs.d](https://github-readme-stats.vercel.app/api/pin/?username=VariableClass&repo=.emacs.d)](https://github.com/VariableClass/.emacs.d)
-[![.emacs.d](https://github-readme-stats.vercel.app/api/pin/?username=VariableClass&repo=tmux)](https://github.com/VariableClass/.tmux)
+[![.emacs.d](https://github-readme-stats.vercel.app/api/pin/?username=VariableClass&repo=tmux)](https://github.com/VariableClass/tmux)
 
 <br />
 
