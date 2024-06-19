@@ -26,7 +26,7 @@ Help me improve my [__dotfile configs__](https://github.com/VariableClass/dotfil
 
 ![dotnet](https://img.shields.io/badge/c%23-purple?style=flat&logo=.net&logoColor=white)
 ![Python](https://img.shields.io/badge/python-blue?style=flat&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/java-orange?style=flat&logo=java&logoColor=white)
+![Java](https://img.shields.io/badge/java-orange?style=flat&logo=openjdk&logoColor=white)
 ![Nix](https://img.shields.io/badge/nix-blue?style=flat&logo=nixos&logoColor=white)
 ![ELisp](https://img.shields.io/badge/elisp-violet?style=flat&logo=gnu%20emacs&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-yellow?style=flat&logo=javascript&logoColor=white)
