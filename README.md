@@ -56,7 +56,7 @@ Help me improve my [__dotfile configs__](https://github.com/VariableClass/dotfil
 
 ## Social :rocket:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Calle%20Veale-blue?style=social&logo=linkedin)](https://www.linkedin.com/in/callumveale/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Calle%20Veale-blue?style=social&logo=linkedin)](https://www.linkedin.com/in/calleveale/)
 [![GitHub Followers](https://img.shields.io/github/followers/VariableClass?label=Followers&style=social)](https://github.com/VariableClass)
 [![Spotify](https://img.shields.io/badge/Spotify-Calle%20Veale-white?style=flat&logo=spotify&color=black)](https://open.spotify.com/user/112124278)
 
