@@ -58,6 +58,6 @@ Help me improve my [__dotfile configs__](https://github.com/VariableClass/dotfil
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Calle%20Veale-blue?style=social&logo=linkedin)](https://www.linkedin.com/in/callumveale/)
 [![GitHub Followers](https://img.shields.io/github/followers/VariableClass?label=Followers&style=social)](https://github.com/VariableClass)
-[![Spotify](https://img.shields.io/badge/Spotify-Callum%20Veale-white?style=flat&logo=spotify&color=black)](https://open.spotify.com/user/112124278)
+[![Spotify](https://img.shields.io/badge/Spotify-Calle%20Veale-white?style=flat&logo=spotify&color=black)](https://open.spotify.com/user/112124278)
 
 [![Stack Overflow](https://github-readme-stackoverflow.vercel.app/?userID=7744187&layout=compact)](https://stackoverflow.com/users/7744187/)
