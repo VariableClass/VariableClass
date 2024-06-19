@@ -27,6 +27,7 @@ Help me improve my [__dotfile configs__](https://github.com/VariableClass/dotfil
 ![dotnet](https://img.shields.io/badge/c%23-purple?style=flat&logo=.net&logoColor=white)
 ![Python](https://img.shields.io/badge/python-blue?style=flat&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/java-orange?style=flat&logo=java&logoColor=white)
+![Nix](https://img.shields.io/badge/nix-blue?style=flat&logo=nixos&logoColor=white)
 ![ELisp](https://img.shields.io/badge/elisp-violet?style=flat&logo=gnu%20emacs&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-yellow?style=flat&logo=javascript&logoColor=white)
 
@@ -34,9 +35,8 @@ Help me improve my [__dotfile configs__](https://github.com/VariableClass/dotfil
 
 ![OS](https://img.shields.io/badge/os-*nix-yellow?style=flat&logo=linux&logoColor=white)
 ![VCS](https://img.shields.io/badge/vcs-git-orange?style=flat&logo=git&logoColor=white)
-![Emacs](https://img.shields.io/badge/emacs-violet?style=flat&logo=gnu%20emacs&logoColor=white)
+![Neovim](https://img.shields.io/badge/neovim-brightgreen?style=flat&logo=neovim&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/vs%20code-blue?style=flat&logo=visual%20studio%20code&logoColor=white)
-![Vim](https://img.shields.io/badge/vim-darkgreen?style=flat&logo=vim&logoColor=white)
 [![Spotify](https://img.shields.io/badge/spotify-brightgreen?style=flat&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/7yTlirpeYc0BtN0EGWSG9f?si=HPgPPfjOSIGkGragZzuIuw)
 
 ### Methodologies & Design Patterns
